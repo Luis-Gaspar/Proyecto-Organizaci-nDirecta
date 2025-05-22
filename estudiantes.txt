@@ -1,0 +1,5 @@
+88161019,Benedicto,Ramirez Santiago,2,B,Ing. Informática
+94161023,Sara,Connors,5,C,Ing. Forestal
+23920201,Marcos,Tierno,2,B,Ing. en Gestión Empresarial
+23920202,Félix,Tierno,7,B,Ing. en Ciencia de Datos
+23920225,Gordolobito,turulu,6,C,Ing. en TIC
